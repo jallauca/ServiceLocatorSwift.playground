@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Container'/>
+        <page name='Locate it'/>
+        <page name='Resolve new objects every time'/>
+        <page name='Resolve a Singleton'/>
+        <page name='Register type with required params'/>
+        <page name='Pass Service Locator'/>
+    </pages>
+</playground>
